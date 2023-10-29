@@ -67,3 +67,11 @@
 /Users/bchac/Documents/dotnet core and angular class/DatingApp/API/obj/Debug/net7.0/API.pdb
 /Users/bchac/Documents/dotnet core and angular class/DatingApp/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/bchac/Documents/dotnet core and angular class/DatingApp/API/obj/Debug/net7.0/ref/API.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/bchac/Documents/dotnet core and angular class/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
